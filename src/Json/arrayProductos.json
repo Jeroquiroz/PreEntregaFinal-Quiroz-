@@ -1,0 +1,11 @@
+[
+    {"id":1, "nombre":"Camara Seguridad Hikvision", "descripcion":"Camara Seguridad Hikvision Full Hd 1080p 16d0t-exipf Ext 2.8", "imagen":"https://http2.mlstatic.com/D_NQ_NP_687467-MLA48858833383_012022-O.webp", "precio":9.198, "stock":10, "categoria":"Camaras"},
+    {"id":2, "nombre":"Camara Bullet Hikvision ", "descripcion":" Modelo DS-2CE10DF0T-PF 2.8mm - Blanco", "imagen":"https://http2.mlstatic.com/D_NQ_NP_831474-MLA48771523728_012022-O.webp", "precio":17800, "stock":10, "categoria":"Camaras"},
+    {"id":3, "nombre":"Camara Domo Hikvision", "descripcion":"Camara Seguridad Hivision Cctv Full Hd 1080p Domo Infrarroja", "imagen":"https://http2.mlstatic.com/D_NQ_NP_803346-MLA49365485046_032022-O.webp", "precio":8000, "stock":10, "categoria":"Camaras" },
+    {"id":4, "nombre":"Kit Alarma domiciliaria", "descripcion":"Kit Alarma Domiciliaria Inalambrica Gsm Wifi Pantalla Led", "imagen":"https://http2.mlstatic.com/D_NQ_NP_641619-MLA70113193155_062023-O.webp", "precio":95650, "stock":10, "categoria":"Alarmas"},
+    {"id":5, "nombre":"Kit Alarma DSC", "descripcion":"Kit Alarma Dsc 585 Sensores Bateria Sirena Int + Exterior", "imagen":"https://http2.mlstatic.com/D_NQ_NP_702310-MLA50956551874_082022-O.webp", "precio":98000, "stock":10, "categoria":"Alarmas"},
+    {"id":6, "nombre":"Placa Alarma Paradox", "descripcion":"Paradox Alarmas Sp 6000 Placa + Trafo+ Gabinete Central De Alarma", "imagen":"https://http2.mlstatic.com/D_NQ_NP_929546-MLA52252921585_112022-O.webp", "precio":89000, "stock":10, "categoria":"Alarmas"},
+    {"id":7, "nombre":"Kit Seguridad de Acceso ", "descripcion":"Kit Control De Acceso Autonomo+pulsador+cerradura De 180 K", "imagen":"https://http2.mlstatic.com/D_NQ_NP_722121-MLA70174287095_062023-O.webp", "precio":71000, "stock":10, "categoria":"Cerraduras"},
+    {"id":8, "nombre":"Kit Control de Acceso", "descripcion":"Kit Seguridad Control Acceso Huella Digital + Cerradura Dx", "imagen":"https://http2.mlstatic.com/D_NQ_NP_925811-MLA70504155179_072023-O.webp", "precio":63000, "stock":10, "categoria":"Cerraduras"}
+   
+]
